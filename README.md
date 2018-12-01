@@ -86,4 +86,4 @@ Allows those that follow music to stay up to date on when artists are releasing 
 ---
 
 ## App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1xr7pHUjePA_9k8J4il96qIh0eIE_H5HAwpwBsFYAcZs/edit#slide=id.g46191e9b52_0_257
