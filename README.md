@@ -79,7 +79,8 @@ Allows those that follow music to stay up to date on when artists are releasing 
 ---
 
 ## Wireframes
-![alt text] (https://raw.githubusercontent.com/gianine-dao/east-coast-west-coast/master/Home.png)
+![Alt text] (https://raw.githubusercontent.com/gianine-dao/east-coast-west-coast/master/Home.png)
+![Alt text] (https://raw.githubusercontent.com/gianine-dao/east-coast-west-coast/master/Search.png)
 
 ---
 
